@@ -1,0 +1,3086 @@
+[
+    {
+        "name": "BI analyst (middle)",
+        "salary": "",
+        "tags": [
+            "Способность работать в коллективе",
+            "Грамотная речь",
+            "Базы данных",
+            "Аналитическое мышление",
+            "Microsoft office",
+            "Автоматизация процессов",
+            "SQL",
+            "Qwery",
+            "A/B тестирование",
+            "Проверка статистических гипотез",
+            "Stata",
+            "Power Pivot",
+            "Работа с данными – аналитика, обработка, расчет, управление базой данных",
+            "Работа с реляционными базами данных"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data engineer",
+        "salary": "",
+        "tags": [
+            "Python",
+            "MySQL",
+            "Django Framework",
+            "Git",
+            "ООП",
+            "Django Rest Framework",
+            "Celery",
+            "Reddis",
+            "airflow",
+            "bigquery",
+            "Spark",
+            "Google Cloud Platform",
+            "PostgreSQL",
+            "power bi",
+            "SQL",
+            "ETL",
+            "Hadoop",
+            "Docker",
+            "Работа с базами данных",
+            "Kafka",
+            "Big Data",
+            "ClickHouse",
+            "DWH",
+            "Greenplum",
+            "Cassandra",
+            "OLAP"
+        ],
+        "additional_education": [
+            "Python",
+            "Java"
+        ],
+        "additional_education_organization": [
+            "OverOne, Python developer",
+            "Академия Belhard, Java разработчик"
+        ],
+        "additional_education_year": [
+            "2020",
+            "2019"
+        ]
+    },
+    {
+        "name": "Middle Data Analyst/Data Scientist",
+        "salary": "",
+        "tags": [
+            "Python",
+            "SQL",
+            "pandas",
+            "MySQL",
+            "clickhouse",
+            "Git",
+            "airflow",
+            "numpy",
+            "Jupyter Notebook",
+            "redash",
+            "sklearn",
+            "scipy",
+            "statsmodels",
+            "Spark",
+            "prophet",
+            "hadoop",
+            "seaborn",
+            "matplotlib",
+            "plotly",
+            "tableau",
+            "zeppelin",
+            "Atlassian Confluence",
+            "Atlassian Jira",
+            "apache hue"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Analyst / Data Engineer / Data Scientist",
+        "salary": "",
+        "tags": [
+            "Обучаемость",
+            "Продвинутый пользователь",
+            "Python",
+            "SQL",
+            "PL/SQL",
+            "C++",
+            "Java",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "Qlik Sense",
+            "Microsoft office",
+            "Git",
+            "Английский язык",
+            "Грамотная речь",
+            "MS PowerPoint",
+            "Водительское удостоверение категории B",
+            "MS Outlook",
+            "Linux",
+            "October CMS",
+            "ORACLE",
+            "PostgreSQL",
+            "Деловое общение",
+            "Организаторские навыки",
+            "IBM IRIS",
+            "Kafka",
+            "Hadoop",
+            "WinSCP",
+            "Power bi"
+        ],
+        "additional_education": [
+            "Data & Analytics Training",
+            "Qlik Sense",
+            "IELTS 7.0"
+        ],
+        "additional_education_organization": [
+            "EPAM, Data Analysis",
+            "Datanomix, BI tool",
+            "British Council"
+        ],
+        "additional_education_year": [
+            "2022",
+            "2021",
+            "2021"
+        ]
+    },
+    {
+        "name": "Junior Data Scientist/ middle Data Analyst",
+        "salary": "",
+        "tags": [
+            "R",
+            "C++",
+            "Java",
+            "HTML5",
+            "CSS",
+            "Js",
+            "Jira",
+            "Trello",
+            "Sales Management",
+            "Consulting",
+            "Big Data",
+            "Data Mining",
+            "Google ads",
+            "Google Analytics",
+            "Oracle Pl/SQL",
+            "SQL",
+            "MySQL",
+            "Slack",
+            "Atlassian Confluence"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Analyst",
+        "salary": "",
+        "tags": [
+            "Business English",
+            "Data Analysis",
+            "Presentation skills",
+            "Project management",
+            "Analytical skills",
+            "MS Project",
+            "Negotiation skills"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": "",
+        "tags": [
+            " Python",
+            "NumPy",
+            "Pandas",
+            "Oracle Pl/SQL",
+            "PostgreSQL",
+            "Аналитическое мышление",
+            "Анализ данных",
+            "Tableau",
+            "SQL",
+            "MS Excel"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle analyst",
+        "salary": "",
+        "tags": [
+            "SQL",
+            "Анализ данных",
+            "Базы данных",
+            "MS Excel",
+            "MS Access",
+            "Английский язык",
+            "MS PowerPoint",
+            "Работа в команде",
+            "Пользователь ПК",
+            "Работа с большим объемом информации",
+            "MS Visio",
+            "Qlik Sense",
+            "Аналитика",
+            "Работа с базами данных",
+            "Написание ТЗ",
+            "Сбор и анализ информации",
+            "Сводные таблицы"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Project Manager",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Java",
+            "Git",
+            "Linux",
+            "Data Mining",
+            "Data Analysis",
+            "SQL",
+            "PostgreSQL",
+            "Neo4j",
+            "Cluster Analysis",
+            "opencv",
+            "Hadoop",
+            "R",
+            "Confluence/Jira",
+            "Agile Project Management",
+            "Business English",
+            "Mathematical Analysis",
+            "Mathematical Statistics",
+            "Leadership Skills"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Data scientist",
+        "salary": "",
+        "tags": [
+            "Исполнительность",
+            "Коммуникабельность",
+            "Python",
+            "Data Analysis",
+            "Трудолюбие",
+            "Математическая статистика",
+            "Линейная алгебра",
+            "Математический анализ",
+            "SQL"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Scientist",
+        "salary": "",
+        "tags": [
+            "Analytical skills",
+            "Teambuilding",
+            "Presentation skills",
+            "MS Excel",
+            "MS PowerPoint",
+            "MS Word",
+            "R Programming Language",
+            "Minitab",
+            "Data Mining: SPSS",
+            "Matlab/Octave",
+            "Python (scikit-learn)",
+            "MS SQL",
+            "Sas",
+            "VBA",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "jQuery",
+            "Sass",
+            "Git",
+            "Ajax",
+            "web development",
+            "r studio"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Data Engineer",
+        "salary": "",
+        "tags": [
+            "SQL",
+            "Python",
+            "ООП",
+            "Git",
+            "Регулярные выражения",
+            "Английский язык",
+            "Hive",
+            "Hadoop",
+            "Spark",
+            "Pyspark"
+        ],
+        "additional_education": [
+            "Skillbox"
+        ],
+        "additional_education_organization": [
+            "Skillbox, Data Science"
+        ],
+        "additional_education_year": [
+            "2021"
+        ]
+    },
+    {
+        "name": "Data Analyst",
+        "salary": "",
+        "tags": [
+            "MS Excel",
+            "VBA",
+            "Power Query",
+            "Python",
+            "R",
+            "Теория вероятностей",
+            "Математическая статистика",
+            "Статистический анализ",
+            "Анализ данных",
+            "Корпоративные финансы",
+            "Финансовые рынки",
+            "Анализ временных рядов",
+            "Анализ финансовых показателей",
+            "Многомерные статистические методы",
+            "Эконометрика",
+            "SQL",
+            "MS Visual Studio",
+            "Stata",
+            "Qlik",
+            "Pandas",
+            "Numpy",
+            "Scipy",
+            "Matplotlib"
+        ],
+        "additional_education": [
+            "Основы программирования на Python"
+        ],
+        "additional_education_organization": [
+            "Coursera.org, Программирование "
+        ],
+        "additional_education_year": [
+            "2019"
+        ]
+    },
+    {
+        "name": "Middle Data Scientst",
+        "salary": "",
+        "tags": [
+            "Adobe Illustrator",
+            "AutoCAD",
+            "MS Office",
+            "Apache Pig",
+            "Apache Spark",
+            "ArcGIS",
+            "QGIS",
+            "ENVI",
+            "Remote Sensing",
+            "R Studio",
+            "MATLAB",
+            "Statistics",
+            "Data Cleaning",
+            "Data Visualization",
+            "Power BI",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Написание ТЗ",
+            "PyTorch",
+            "NLTK",
+            "A/B тестирование",
+            "Предобработка данных",
+            "Исследовательский анализ данных",
+            "Проверка статистических гипотез",
+            "NLP",
+            "Computer Vision",
+            "PySpark",
+            "XGBoost",
+            "CatBoost"
+        ],
+        "additional_education": [
+            "Специалист Data Science Plus",
+            "MLOps I",
+            "DataRobot for Data Scientists",
+            "Stanford University",
+            "Amazon Web Services (AWS)",
+            "LABA Platform",
+            "Chevron",
+            "The Ultimate Hands-On Hadoop - Tame your Big Data",
+            "ESRI",
+            "University of Southern California"
+        ],
+        "additional_education_organization": [
+            "Яндекс Практикум",
+            "DataRobot",
+            "DataRobot",
+            "Coursera, Machine Learning",
+            "Coursera, AWS Machine Learning",
+            "LABA Platform, Магия Power Point",
+            "Data Science Chapter, Data Science Development Program",
+            "Udemy",
+            "Udemi, Location Advantage",
+            "USC International Academy, Intensive English Level 6"
+        ],
+        "additional_education_year": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2020",
+            "2020",
+            "2020",
+            "2020",
+            "2017",
+            "2017"
+        ]
+    },
+    {
+        "name": "Data analyst",
+        "salary": "",
+        "tags": [
+            "Data Analysis",
+            "SPSS",
+            "Analytical skills"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Data Scientist/Аналитик",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "Machine Learning",
+            "NLP",
+            "PostgreSQL",
+            "Data Analysis",
+            "MySQL",
+            "ML",
+            "Airflow",
+            "XGBoost",
+            "Визуализация данных",
+            "Линейная алгербра",
+            "Статистика",
+            "Временные ряды",
+            "Tensorflow",
+            "CV",
+            "LightGBM",
+            "Exel",
+            "Power BI",
+            "Tableau",
+            "Исследовательский анализ данных",
+            "PowerBI",
+            "Scikit-learn",
+            "Power Query",
+            "Работа с данными – аналитика, обработка, расчет, управление базой данных"
+        ],
+        "additional_education": [
+            "Data Science",
+            "ФУ при Правительстве РФ",
+            "ФУ при Правительстве РФ"
+        ],
+        "additional_education_organization": [
+            "Яндекс Практикум, Data Science",
+            "Финансовый университет при Правительстве РФ, Аналитик данных",
+            "Финансовый университет при Правительстве РФ, Экономический и институциональный анализ бизнес-среды, современные технологии и системы учета, анализа и прогнозирования"
+        ],
+        "additional_education_year": [
+            "2023",
+            "2022",
+            "2016"
+        ]
+    },
+    {
+        "name": "Data analyst",
+        "salary": "",
+        "tags": [
+            "SEO оптимизация",
+            "CSS",
+            "HTML",
+            "Организаторские навыки",
+            "Составление семантического ядра",
+            "Формирование технического задания для разработки",
+            "Аудит поисковой видимости сайта",
+            "внешний аудит сайта",
+            "Внешняя оптимизация сайта",
+            "внутренний аудит сайта",
+            "Информационные сайты",
+            "Поисковая оптимизация мобильной версии сайта",
+            "работа с биржами",
+            "Работа с доменами",
+            "Российские поисковые системы",
+            "Создание систем перелинковок",
+            "регистрация сайта в каталогах",
+            "Технический аудит сайта",
+            "Внутренняя оптимизация сайта",
+            "power bi"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Engineer",
+        "salary": "",
+        "tags": [
+            "Statistics",
+            "Python",
+            "MySQL",
+            "PostgreSQL",
+            "MS SQL Server",
+            "Hadoop",
+            "PySpark",
+            "Docker",
+            "Airflow",
+            "SQL",
+            "Qlick Sense",
+            "superset",
+            "TCP/IP",
+            "ООП",
+            "БД Oracle",
+            "REST API",
+            "Kafka",
+            "API",
+            "Git",
+            "Bash",
+            "Базы данных",
+            "Spark",
+            "go",
+            "Go"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Data Analyst / Аналитик Данных (Qlik Sense, SQL, Python, Tableau, Excel)",
+        "salary": "",
+        "tags": [
+            "Критическое мышление",
+            "Сторителлинг",
+            " Python",
+            " SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Tableau",
+            " MS Excel",
+            "Pandas",
+            "Numpy",
+            "Data Analysis",
+            "Анализ данных",
+            "MS PowerPoint",
+            "Визуализация данных",
+            "CTE",
+            "Jupyter Notebook",
+            "Математическая статистика",
+            "Оконные функции",
+            "Джоины",
+            "Qlik Sense",
+            "Oracle Pl/SQL",
+            "BI",
+            "Аналитическое мышление",
+            "Работа с большим объемом информации",
+            "Аналитика",
+            "Аналитические исследования",
+            "Работа с базами данных",
+            "Базы данных",
+            "Сбор и анализ информации",
+            "Сводные таблицы"
+        ],
+        "additional_education": [
+            "Data Modeling for Qlik Sense",
+            "Create Visualizations with Qlik Sense"
+        ],
+        "additional_education_organization": [
+            "QUBData, BI",
+            "QUBData, BI"
+        ],
+        "additional_education_year": [
+            "2023",
+            "2023"
+        ]
+    },
+    {
+        "name": "Data Analyst/Data Scientist",
+        "salary": "",
+        "tags": [
+            "SQL",
+            "Python",
+            "MS Excel",
+            "MS PowerPoint",
+            "Аналитическое мышление",
+            "MongoDB",
+            "Jupyter Notebook",
+            "Machine Learning",
+            "Pandas",
+            "Numpy",
+            "Matplotlib",
+            "Git",
+            "Web парсинг",
+            "multiprocessing",
+            "Hadoop",
+            "Airflow",
+            "Big Data",
+            "Docker",
+            "Atlassian Jira",
+            "Data Science",
+            "Agile Project Management",
+            "PySpark",
+            "XGBoost",
+            "FastAPI",
+            "CatBoost",
+            "CI/CD",
+            "PyTorch",
+            "C++",
+            "Scikit-learn",
+            "A/B тесты"
+        ],
+        "additional_education": [
+            "НИУ ВШЭ",
+            "Google Digital Garage",
+            "Корпоративный университет Сбербанка",
+            "SoloLearn",
+            "SoloLearn",
+            "Praktikum.Yandex",
+            "НИУ ВШЭ"
+        ],
+        "additional_education_organization": [
+            "HSE University, Yandex School of Data Analysis, Введение в машинное обучение",
+            "Google Digital Garage, The Fundamentals of Digital Marketing",
+            "Корпоративный университет Сбербанка, Большие Данные",
+            "SoloLearn, Machine Learning",
+            "SoloLearn, SQL Fundamentals",
+            "Praktikum.Yandex, Основы Python и анализа данных",
+            "Coursera, Основы программирования на Python"
+        ],
+        "additional_education_year": [
+            "2021",
+            "2020",
+            "2020",
+            "2020",
+            "2020",
+            "2019",
+            "2019"
+        ]
+    },
+    {
+        "name": "Middle Data Scientist",
+        "salary": "",
+        "tags": [
+            "Machine Learning",
+            "Математическая статистика",
+            "Python",
+            "sklearn",
+            "Pytorch",
+            "SQL",
+            "Pandas",
+            "numpy",
+            "Matplotlib",
+            "Английский язык",
+            "Git"
+        ],
+        "additional_education": [
+            "Deep Learning School",
+            "Coursera"
+        ],
+        "additional_education_organization": [
+            "МФТИ, Нейросетевые технологии, продвинутый поток",
+            "Яндекс\\МФТИ, Обучение на размеченных данных"
+        ],
+        "additional_education_year": [
+            "2021",
+            "2020"
+        ]
+    },
+    {
+        "name": "Middle Data Scientist",
+        "salary": "",
+        "tags": [
+            "LIME",
+            "Pytorch",
+            "ML",
+            "Imblearn",
+            "Алгоритмы",
+            "Machine Learning",
+            "Sklearn",
+            " Python",
+            "PostgreSQL",
+            "DL",
+            "Clickhouse",
+            "Линейная алгебра",
+            "Jupyter Notebook",
+            "Matplotlib",
+            "Numpy",
+            "Pandas",
+            "Английский язык"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Analyst",
+        "salary": "",
+        "tags": [
+            "High performance and stress resistance",
+            "Ability to strategic planning and analytics",
+            "Analytical Skills, creative thinking"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle MLE / Data Scientist",
+        "salary": "",
+        "tags": [
+            "Анализ данных",
+            "Статистический анализ",
+            "Английский язык",
+            "Python",
+            "R/RStudio",
+            "SQL",
+            "Git",
+            "Machine Learning",
+            "Latex",
+            "scikit-learn",
+            "keras",
+            "tidyverse",
+            "Визуализация",
+            "cython",
+            "c",
+            "ml",
+            "OOP",
+            "ООП"
+        ],
+        "additional_education": [
+            "STC ML School 2018",
+            "Data Science"
+        ],
+        "additional_education_organization": [
+            "ЦРТ (Центр Речевых Технологий), Летняя школа по Машинному Обучению ",
+            "HSE SPb, Data analyst"
+        ],
+        "additional_education_year": [
+            "2018",
+            "2017"
+        ]
+    },
+    {
+        "name": "Junior+/Middle",
+        "salary": "",
+        "tags": [
+            "Python",
+            "C++",
+            "MATLAB",
+            "MS Excel",
+            "xgboost, catboost, lightgbm",
+            "SQL",
+            "Git",
+            "MySQL",
+            "PostgreSQL",
+            "JSON",
+            "OpenCV",
+            "PyTorch",
+            "Linux",
+            "Gitlab",
+            "Математика",
+            "Машинное обучение",
+            "Компьютерное зрение",
+            "NLP",
+            "Data Science",
+            "Глубокое обучение",
+            "Big Data",
+            "Computer Vision",
+            "Docker",
+            "Airflow",
+            "numpy, pandas, sklearn, plotly, pytorch, tensorflow",
+            "Object Detection",
+            "Semantic segmentation",
+            "Multimodal machine learning"
+        ],
+        "additional_education": [
+            "МФТИ, ЯНДЕКСE-LEARNING DEVELOPMENT FUND",
+            "МОСКОВСКИЙ ФИЗИКО-ТЕХНИЧЕСКИЙ ИНСТИТУТ ",
+            "Stanford university",
+            "Иннотех"
+        ],
+        "additional_education_organization": [
+            "Coursera, Специализация Машинное обучение и анализ данных",
+            "Deep learning School, Deep learning",
+            "Coursera, Machine Learning",
+            "Иннотех, Введение в машинное обучение"
+        ],
+        "additional_education_year": [
+            "2022",
+            "2022",
+            "2021",
+            "2021"
+        ]
+    },
+    {
+        "name": "BI Analyst",
+        "salary": "",
+        "tags": [
+            "MS SQL",
+            "SQL",
+            "SAP Business Objects",
+            "Oracle Pl/SQL",
+            "SQL Navigator",
+            "Apche sql",
+            "Spark",
+            "Python",
+            "Sas",
+            "Dataflow",
+            "Qlick sense",
+            "ORACLE",
+            "Big Data",
+            "Kanban",
+            "БД Oracle",
+            "PySpark",
+            "Qlik Sense",
+            "Бизнес-анализ",
+            "PostgreSQL",
+            "Постановка задач разработчикам",
+            "Data Analysis",
+            "Системная интеграция",
+            "Miro",
+            "Hadoop",
+            "Oracle BI",
+            "Работа с базами данных",
+            "MySQL",
+            "Умение работать в команде"
+        ],
+        "additional_education": [
+            "Обработка и анализ данных",
+            "Машинное обучение",
+            "Network system administration",
+            "Cisco Certified Network Associate"
+        ],
+        "additional_education_organization": [
+            "Университет нархоз",
+            "СДУ",
+            "IITU, Network system administration",
+            "Cisco"
+        ],
+        "additional_education_year": [
+            "2022",
+            "2022",
+            "2019",
+            "2019"
+        ]
+    },
+    {
+        "name": "Data Scientist (rus)",
+        "salary": "",
+        "tags": [
+            "MS SQL Server",
+            "Python",
+            "C#",
+            "SQL",
+            "MS Visual Studio",
+            "VBA",
+            "MS Excel",
+            "Data Analysis",
+            "Machine Learning",
+            "Deep Learning",
+            "PyTorch",
+            "Pandas",
+            "Dask",
+            "Sas",
+            "OpenCV",
+            "MLFlow",
+            "PySpark"
+        ],
+        "additional_education": [
+            "Молекулярная биология и генетика",
+            "Глубокое обучение на PyTorch",
+            "Обработка изображений",
+            "Машинное обучение",
+            "Базы данных"
+        ],
+        "additional_education_organization": [
+            "Bioinformatics Institute , Stepik",
+            "AI School, Udacity",
+            "High School of Economics , Stepik",
+            "High School of Economics, Coursera",
+            "High School of Economics , Stepik"
+        ],
+        "additional_education_year": [
+            "2020",
+            "2019",
+            "2019",
+            "2018",
+            "2018"
+        ]
+    },
+    {
+        "name": "Middle/Senior Data Scientist",
+        "salary": "",
+        "tags": [
+            "Аналитическое мышление",
+            "Data science (python), numpy, sklearn, pandas, matplotlib, scipy",
+            "Deep learning (pytorch), nlp/cv",
+            "Docker",
+            "Git",
+            "Linux"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Business analyst",
+        "salary": "",
+        "tags": [
+            "Исполнительность"
+        ],
+        "additional_education": [
+            "Project Management",
+            "LEADER Course in General Management, finance and marketing (Case Studies, held by МВА trainees)",
+            "English language"
+        ],
+        "additional_education_organization": [
+            "The Urals Federal University",
+            "Richard Ivey School of Business , Certificate ",
+            "International Institute of Distance Education, Consultant-translator "
+        ],
+        "additional_education_year": [
+            "2020",
+            "2001",
+            "1999"
+        ]
+    },
+    {
+        "name": "Middle Data Scientist",
+        "salary": "",
+        "tags": [
+            "Classical Machine Learning",
+            "Deep Learning",
+            "Git",
+            "Python",
+            "Java",
+            "SQL",
+            "NLP"
+        ],
+        "additional_education": [
+            "MADE Big Data Academy"
+        ],
+        "additional_education_organization": [
+            "Mail.ru & NUST MISiS, Postgraduate diploma programme for data scientists."
+        ],
+        "additional_education_year": [
+            "2020"
+        ]
+    },
+    {
+        "name": "Middle Data Scientist",
+        "salary": "",
+        "tags": [
+            "computer vision",
+            "machine learning",
+            "Анализ данных",
+            "Images Processing",
+            "OpenCV",
+            "PyTorch",
+            "skimage",
+            "sklearn",
+            "C#",
+            "Unity",
+            "Python",
+            "Cython",
+            "Flask",
+            "MS SQL",
+            "NoSQL",
+            "C++",
+            "Git",
+            "Numba",
+            "wandb",
+            "reinforcement learning",
+            "stable baselines 3"
+        ],
+        "additional_education": [
+            "RAAI Summer School"
+        ],
+        "additional_education_organization": [
+            "МФТИ, Машинное обучение с подкреплением"
+        ],
+        "additional_education_year": [
+            "2021"
+        ]
+    },
+    {
+        "name": "Petroleum engineer/ Data Analyst",
+        "salary": "",
+        "tags": [
+            "Исполнительность",
+            "MS Office",
+            "AutoCAD",
+            "Организаторские навыки",
+            "Английский язык",
+            "Деловая коммуникация",
+            "Грамотная речь",
+            "Mathematical Programming",
+            "AVEVA",
+            "Ответственность",
+            "R-programming"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Бизнес аналитик (business analyst), SCRUM, Data Center, и IT/Телеком",
+        "salary": "",
+        "tags": [
+            "Умение планировать",
+            "Kotlin",
+            "Работа в команде",
+            "Управление персоналом",
+            "Подбор персонала",
+            "Управление проектами",
+            "Java",
+            "Spring Framework",
+            "PostgreSQL",
+            "Agile Project Management",
+            "Scrum",
+            "UML",
+            "BPMN"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Scientist, Biostatistician",
+        "salary": "",
+        "tags": [
+            "VBA",
+            "Линейное программирование",
+            "Statistics",
+            "Английский язык",
+            "Управление проектами",
+            "Mathematical Statistics",
+            "Математическая статистика",
+            "Регрессионный анализ",
+            "Python",
+            "Работа в команде",
+            "Планирование",
+            "Presentation skills",
+            "Time management",
+            "Аналитические исследования",
+            "Деловая коммуникация",
+            "Machine learning",
+            "Bayesian statistics",
+            "Neutral networks",
+            "Time Series Analysis",
+            "tensorflow",
+            "Sas"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Продуктовый аналитик (middle)",
+        "salary": "",
+        "tags": [
+            "SQL",
+            "Python",
+            "Big Data",
+            "A/B тесты",
+            "ETL",
+            "Superset",
+            "Git",
+            "Airflow",
+            "MS Office",
+            "Kafka",
+            "Confluence/JIRA",
+            "Работа в команде",
+            "Стрессоустойчивость",
+            "Аналитическое мышление",
+            "Гибкость"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Junior Business Analyst/ Junior Data Analyst",
+        "salary": "",
+        "tags": [
+            "Работа в команде",
+            "Ведение переговоров",
+            "Управленческие навыки",
+            "Работа с поставщиками",
+            "Навыки переговоров",
+            "Обучение и развитие",
+            "Управление персоналом",
+            "Согласование договоров",
+            "Взаимодействие с контрольными органами",
+            "Организация встреч",
+            "Ориентация на результат",
+            "Ресторанный менеджмент",
+            "Управление командой",
+            "Английский язык",
+            "Управление проектами",
+            "Деловая переписка",
+            "Барное ремесло",
+            "Деловое общение",
+            "Проведение презентаций",
+            "Подбор персонала",
+            "Заключение договоров",
+            "Управление временем",
+            "Организация мероприятий",
+            "Tableau",
+            "JUPYTER",
+            "Владение компьютером – прикладные программы MS Office",
+            "БД Oracle",
+            "Проверка статистических гипотез",
+            "Исследовательский анализ данных",
+            "Google Data Studio"
+        ],
+        "additional_education": [
+            "Data scientist: Junior to Middle"
+        ],
+        "additional_education_organization": [
+            "Netology"
+        ],
+        "additional_education_year": [
+            "2023"
+        ]
+    },
+    {
+        "name": "Analyst",
+        "salary": "",
+        "tags": [
+            "MS PowerPoint",
+            "Investor Relations",
+            "Busines Valuation",
+            "Corporate Finance",
+            "MS Excel",
+            "Negotiation skills",
+            "Public Speaking",
+            "MS Outlook",
+            "Business Development"
+        ],
+        "additional_education": [
+            "HEC Paris"
+        ],
+        "additional_education_organization": [
+            "HEC Paris, Energy & Financial Markets"
+        ],
+        "additional_education_year": [
+            "2018"
+        ]
+    },
+    {
+        "name": "Tech Lead / Продуктовый (data) аналитик / Инженер данных - ML разработка",
+        "salary": "",
+        "tags": [
+            "Статистический анализ",
+            "RStudio",
+            "Google Analytics",
+            "Яндекс.Метрика",
+            "Google AdWords",
+            "Python",
+            "PostgreSQL",
+            "ClickHouse",
+            "HTML",
+            "Google API",
+            "Yandex Maps API",
+            "Vkontakte Api",
+            "Google Sheets API",
+            "Git",
+            "Bash",
+            "AirFlow",
+            "Tableau",
+            "Power BI",
+            "A/B тесты",
+            "Дисперсионный анализ",
+            "Регрессионный анализ",
+            "Продуктовые метрики",
+            "Unit-экономика",
+            "Воронки продаж",
+            "Дашборд",
+            "PHP",
+            "JavaScript",
+            "GreenPlum",
+            "Teradata",
+            "Hadoop"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "ABAP-разработчик",
+        "salary": "",
+        "tags": [
+            "Казахский — Родной",
+            "Английский — B2 — Средне-продвинутый",
+            "Арабский — A1 — Начальный",
+            "Русский — C2 — В совершенстве",
+            "Турецкий — C2 — В совершенстве"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Petroleum Data Analyst",
+        "salary": "",
+        "tags": [
+            "Arabic — Native",
+            "English — C2 — Proficiency",
+            "Spanish — A1 — Basic"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Scientist (junior/middle)",
+        "salary": "",
+        "tags": [
+            "SolidWorks",
+            "ЕСКД",
+            "AutoCAD",
+            "Autodesk Inventor",
+            "Adobe Photoshop",
+            "Подготовка презентаций",
+            "Технический перевод",
+            "MS PowerPoint",
+            "Английский язык",
+            "Претензионная работа",
+            "Сопровождение клиентов",
+            "Деловая переписка",
+            "Рекламации",
+            "MS Outlook",
+            "3D Моделирование",
+            "MS Word",
+            "Публичные выступления",
+            "Работа с поставщиками",
+            "Python",
+            "Статистический анализ",
+            "Машинное обучение",
+            "SQL",
+            "Анализ данных"
+        ],
+        "additional_education": [
+            "Школа Анализа Данных",
+            "Stepik: обучающие курсы",
+            "Webtrening",
+            "Маркетинг: шаг за шагом",
+            "Курс обучения по программе «Student of business Administration»",
+            "Организатор, наставник школы актива «I-sa»",
+            "Основы коммерциализации НИОКР",
+            "Практические вопросы разработки и реализации предпринимательских проектов учащейся молодежи",
+            "Применение информационно-коммуникационных технологий в практике бизнеса в соответствии с европейским стандартом - European Computer Driving Licence"
+        ],
+        "additional_education_organization": [
+            "Яндекс Практикум, Специалист по Data Science",
+            "Институт Биотехнологий, Программирование на Python",
+            "Лингвистика, Тренинг по продажам",
+            "Webtrenig, Маркектинг",
+            "Сообщество деловой молодёжи, ассоциация менеджеров России, «Личностная эффективность»; «Деловая эффективность»; «Маркетинг».",
+            "НИТУ МИСИС",
+            "Международная Школа Бизнеса",
+            "Международная Школа Бизнеса",
+            "Международная Школа Бизнеса, ECDL сертификат"
+        ],
+        "additional_education_year": [
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2013",
+            "2012",
+            "2010",
+            "2010",
+            "2010"
+        ]
+    },
+    {
+        "name": "Analyst",
+        "salary": "",
+        "tags": [
+            "Stress Management",
+            "MS Office",
+            "Teamplayer",
+            "Communication skills",
+            "Hardworking",
+            "Writing Skills",
+            "Foreign languages",
+            "Systematic thinking",
+            "Organization Skills",
+            "Responsibility",
+            "Learning & Development",
+            "Analytical skills",
+            "Big Data",
+            "Project management",
+            "Creativity",
+            "Forecasting",
+            "SKU management",
+            "Competitive analysis",
+            "Product Development",
+            "Market Research",
+            "Product Management"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Researcher Data science",
+        "salary": "",
+        "tags": [
+            "Deep Learning",
+            "Git",
+            "PyTorch",
+            "Python",
+            "Linux",
+            "MySQL",
+            "Signal Processing",
+            "Computer Vision",
+            "NLP",
+            "Data Science"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Analyst",
+        "salary": "",
+        "tags": [
+            "Data Analysis",
+            "Умение работать в команде",
+            "Analytical skills",
+            "MS Office",
+            "Linux",
+            "Business English",
+            "Writing Skills",
+            "Statistics"
+        ],
+        "additional_education": [
+            "European Research Course on Atmospheres (ERCA)",
+            "Ferecasting of Severe Convective Storms",
+            "summer school on Aerosol-cloud interactions",
+            "Course of Geographic Information Systems",
+            "Course of SQL and database management system"
+        ],
+        "additional_education_organization": [
+            "Universite Grenoble Alpes, Grenoble, France., Physics of Atmoshere",
+            "European Severe Storms Laboratory, Pula, Croatia, Physics of Atmosphere",
+            "The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy., Physiscs of Atmosphere",
+            "Nuclear safety institute of the Russian Academy of Sciences, Moscow, Russia, Information Systems",
+            "Moscow State University, Department of Higher Mathematics and Cybernetics, Moscow, Russia, SQL"
+        ],
+        "additional_education_year": [
+            "2017",
+            "2017",
+            "2016",
+            "2013",
+            "2008"
+        ]
+    },
+    {
+        "name": "Системный аналитик Middle",
+        "salary": "",
+        "tags": [
+            "Аналитический склад ума",
+            "Обеспечение антивирусной защиты",
+            "Внедрение систем информационной безопасности",
+            "Средства защиты от несанкционированного доступа",
+            "Резервное копирование",
+            "Руководство коллективом",
+            "Ответственность",
+            "Исполнительность",
+            "Контроль доступа",
+            "Чувство юмора",
+            "REST API",
+            "SOAP",
+            "Jira",
+            "Confluence",
+            "Miro",
+            "ARIS",
+            "Trello",
+            "Draw.io",
+            "DBeaver",
+            "Figma",
+            "MySQL",
+            "PlantUML",
+            "BPMN",
+            "UML",
+            "Rabbit MQ"
+        ],
+        "additional_education": [
+            "«Проектирование архитектуры и интеграций сервисов» ",
+            "Профессиональная переподготовка по программе «Системный аналитик»",
+            "Президентская программа подготовки управленческих кадров (профессиональная переподготовка) \"Менеджмент успешного бизнеса\" (Level - A; advanced)",
+            "Специализированный курс ФСФР РФ 1.0",
+            "Специализированный курс ФСФР РФ 5.0",
+            "БТ01 \"Безопасность информационных технологий\"",
+            "КП32 \"Защита персональных данных\"",
+            "КП33 \"Техническая защита персональных данных\"",
+            "Полный курс \"Безопасность информационных технологий\"",
+            "М2273 \"Управление и поддержка среды Microsoft Windows Server 2003\"",
+            "М2276 \"Внедрение сетевой инфраструктуры Microsoft Windows Server 2003: Сетевые хосты\""
+        ],
+        "additional_education_organization": [
+            "Образовательная платформа Stepik",
+            "АНО ДПО «Образовательные технологии Яндекса» (Яндекс Практикум), Системный анализ",
+            "НОУ высшего профессионального образования \"Международный институт менеджмента ЛИНК\", Менеджмент",
+            "Институт фондового рынка и управления, Специалист финансового рынка по брокерской, дилерской деятельности и деятельности по управлению ценными бумагами",
+            "Институт фондового рынка и управления, Специалист финансового рынка по управлению инвестиционными фондами, ПИФами и негосударственными пенсионными фондами",
+            "АНО \"ИНФОРМЗАЩИТА\"",
+            "АНО \"ИНФОРМЗАЩИТА\"",
+            "АНО \"ИНФОРМЗАЩИТА\"",
+            "АНО \"ИНФОРМЗАЩИТА\"",
+            "НОУ Специалист",
+            "НОУ Специалист"
+        ],
+        "additional_education_year": [
+            "2024",
+            "2023",
+            "2014",
+            "2012",
+            "2012",
+            "2011",
+            "2011",
+            "2011",
+            "2011",
+            "2008",
+            "2008"
+        ]
+    },
+    {
+        "name": "Business Analyst",
+        "salary": "",
+        "tags": [
+            "Analytical skills",
+            "Control Of Execution Of Orders",
+            "ORACLE",
+            "Helpdesk",
+            "MS Office",
+            "MS Exchange",
+            "Active Directory",
+            "Documentary",
+            "Databases",
+            "CMS Wordpress",
+            "Bootstrap",
+            "CSS",
+            "PHP",
+            "MS PowerPoint",
+            "MS Outlook"
+        ],
+        "additional_education": [
+            "Excel Middle Level Course"
+        ],
+        "additional_education_organization": [
+            "EINSTEIN Training Center, Microsoft Excel"
+        ],
+        "additional_education_year": [
+            "2019"
+        ]
+    },
+    {
+        "name": "Аналитик, разработчик ETL (SAS DIS) и SQL",
+        "salary": "",
+        "tags": [
+            "Oracle Pl/SQL",
+            "SQL",
+            "ORACLE",
+            "SAP Business Objects",
+            "SAP BI",
+            "SAS DIS",
+            "SAS BASE",
+            "SQL TERADATA",
+            "SAS Data Integration Studio",
+            "Хранилища данных",
+            "Курирование новых сотрудников",
+            "Аналитика",
+            "Разработка",
+            "Bash",
+            "erWin",
+            "Python",
+            "PHP",
+            "GO",
+            "Sas",
+            "SAS Data integrtion studio",
+            "Информатика",
+            "Java"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Scientist",
+        "salary": "",
+        "tags": [
+            "C++; C",
+            "Алгоритмы и структуры данных;",
+            "python3; pyspark, pandas",
+            "numpy, sklearn, matplotlib",
+            "statsmodels, pytest, keras, tensorflow",
+            "Спортивное программирование"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Математик / Data Scientist / Data Analyst / Риск-аналитик / Актуарий (на позиции junior/middle)",
+        "salary": "",
+        "tags": [
+            "Python",
+            "C++",
+            "MS Office",
+            "Математическая статистика",
+            "Математическое программирование",
+            "Математический анализ",
+            "Wolfram Matematica",
+            "Maple",
+            "NumPy",
+            "SciPy",
+            "SQL",
+            "Pandas",
+            "Scikit-Learn",
+            "ANSYS",
+            "Анализ данных",
+            "Статистический анализ",
+            "Аналитические исследования",
+            "Написание научных статей",
+            "VBA",
+            "Alteryx"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle data scientist",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Git",
+            "Dvc",
+            "Pycharm",
+            "Atlassian Jira"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data scientist (junior)",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SciPy",
+            "Matplotlib",
+            "C#",
+            "MATLAB",
+            "Unity",
+            "3D Max",
+            "Holography",
+            "Optics physics"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Финансовый аналитик",
+        "salary": "",
+        "tags": [
+            "1C: Финансы",
+            "MS Excel",
+            "SAP",
+            "SAP ERP",
+            "MS Office",
+            "1C: Бухгалтерия",
+            "Financial Analysis",
+            "Financial Planning",
+            "Economic Audit",
+            "Python",
+            "1С: Управление предприятием"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Senior Data Scientist",
+        "salary": "",
+        "tags": [
+            "Data Analysis",
+            "Data Mining",
+            "Business Analysis",
+            "Python",
+            "Analytical skills",
+            "Information Technology",
+            "Mathematical Modeling",
+            "Learning & Development",
+            "Machine Learning",
+            "Data Science",
+            "Анализ данных",
+            "Статистический анализ",
+            "Predictive Analytics",
+            "Deep Learning"
+        ],
+        "additional_education": [
+            "Bayesian Methods in Deep Learning (Deep|Bayes) summer school",
+            "Bioinformatics Summer School, Data Mining section",
+            "Natural Language Processing Summer School",
+            "Mathematical Methods of Macrosystems Efficiency Evaluation",
+            "Intoduction to Distributed Computing and Big Data Analytics"
+        ],
+        "additional_education_organization": [
+            "NRU HSE, Data Science",
+            "Bioinformatics Institute - MIPT, Data Mining",
+            "NRU HSE - MIEM, NLP",
+            "NRU HSE - ISA RAS, Applied Mathematics",
+            "Scientific laboratory for Cloud Computing and Big Data Analytics, Plekhanov Russian University of Economics, Data Science"
+        ],
+        "additional_education_year": [
+            "2017",
+            "2017",
+            "2017",
+            "2016",
+            "2015"
+        ]
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": "",
+        "tags": [
+            "Oracle Pl/SQL",
+            "MySQL",
+            "MS Excel",
+            "Python",
+            "PowerBI",
+            "SQL",
+            "Работа с базами данных",
+            "pandas",
+            "Google data studio",
+            "Английский язык"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Python Data Science/Analytics",
+        "salary": "",
+        "tags": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "Machine Learning",
+            "Естественные языки в программировании",
+            "NLTK",
+            "pymystem3",
+            "matplotlib",
+            "MS Excel",
+            "sklearn",
+            "Математическая статистика",
+            "A/B тестирование",
+            "ImageAI",
+            "Машинное зрение",
+            "Распознавание объектов на фото и видео"
+        ],
+        "additional_education": [
+            "Яндекс Практикум"
+        ],
+        "additional_education_organization": [
+            "https://praktikum.yandex.ru/profile/data-scientist/, Data scientist"
+        ],
+        "additional_education_year": [
+            "2020"
+        ]
+    },
+    {
+        "name": "Python Developer",
+        "salary": "",
+        "tags": [
+            " Python",
+            "Git",
+            "Bash",
+            "Docker",
+            "Linux",
+            "SQL",
+            "AWS",
+            "Django",
+            "Flask",
+            "ML"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Trading Operations Analyst, Middle Office",
+        "salary": "",
+        "tags": [
+            "Investment Analysis",
+            "Financial Modelling",
+            "MS Office",
+            "Capital Markets",
+            "Oil & Gas Industry",
+            "Market Research",
+            "Murex, Calypso, Bloomberg",
+            "Fidessa Data Management, BackQORT, CMT",
+            "Document Management",
+            "M&A anaysis",
+            "Tax Optimisation",
+            "Financial scenario and sensitivity analyses"
+        ],
+        "additional_education": [
+            "EXCEL course (Pivot tables, complex functions, infographics)"
+        ],
+        "additional_education_organization": [
+            "BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY"
+        ],
+        "additional_education_year": [
+            "2020"
+        ]
+    },
+    {
+        "name": "Lead Engineer / TeamLead/ CIO",
+        "salary": "",
+        "tags": [
+            "HTML",
+            "CSS3",
+            "Adobe Photoshop",
+            "CorelDRAW",
+            "PfSense",
+            "Git",
+            "RHEL",
+            "CentOS",
+            "L2, L3",
+            "Zabbix",
+            "Grafana",
+            "Apache",
+            "HP NNMi",
+            "Centos 7",
+            "Logstash",
+            "Check Point",
+            "Extreme Networks",
+            "Raspberry Pi",
+            "SNMP",
+            "Web programming",
+            "Linux Servers Administration",
+            "Network equipment administration",
+            "Web Design",
+            "Telecom",
+            "Local networks",
+            "Monitoring systems",
+            "Data bases",
+            "SEO",
+            "object-oriented programming",
+            "CheckPoint"
+        ],
+        "additional_education": [
+            "The Python programming language. Basic course",
+            "The Python programming language. Advanced Course",
+            "Zabbix. Certified user.",
+            "Zabbix. Certified specialist.",
+            "Zabbix. Certified professional.",
+            "Zabbix. Certified expert.",
+            "IBS Platformix",
+            "Hewlett-Packard Enterprise",
+            "Extreme Networks",
+            "ECDL e-Citizen Certificate"
+        ],
+        "additional_education_organization": [
+            "The specialist",
+            "The specialist",
+            "Zabbix",
+            "Zabbix",
+            "Zabbix",
+            "Zabbix",
+            "IBS Platformix, Network analysis using the Observer Protocol Analyzer",
+            "HP, Scalable WLAN Design & Implementation v8",
+            "Extreme Networks, Design of wireless networks on Extreme equipment",
+            "ECDL, Certificate"
+        ],
+        "additional_education_year": [
+            "2019",
+            "2019",
+            "2019",
+            "2019",
+            "2019",
+            "2019",
+            "2018",
+            "2018",
+            "2018",
+            "2008"
+        ]
+    },
+    {
+        "name": "Business analyst",
+        "salary": "",
+        "tags": [
+            "Business Analysis",
+            "Business Planning",
+            "Data Analysis",
+            "MS Office",
+            "Project management",
+            "Presentation skills",
+            "Java SE (basic)",
+            "MATLAB (basic)",
+            "MySQL"
+        ],
+        "additional_education": [
+            "German Language Courses (B1 – B2 level)"
+        ],
+        "additional_education_organization": [
+            "Goethe Institut"
+        ],
+        "additional_education_year": [
+            "2016"
+        ]
+    },
+    {
+        "name": "Senior Business Analyst",
+        "salary": "",
+        "tags": [
+            "Syndicated Loans",
+            "Secondary Loan Trading",
+            "MS SQL",
+            "MS Visio",
+            "MS Excel",
+            "SDLC",
+            "XML Spy",
+            "FpML"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Аналитик, эксперт в кредитных рисках",
+        "salary": "",
+        "tags": [
+            "R",
+            "SQL",
+            "Python",
+            "Stata",
+            "EViews",
+            "VBA",
+            "Математическая статистика",
+            "Эконометрика",
+            "Машинное обучение",
+            "Machine learning",
+            "IFRS 9",
+            "Актуарные расчеты"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "General/Operations Manager",
+        "salary": "",
+        "tags": [
+            "Business English",
+            "Sales Forecasting",
+            "Английский язык",
+            "Analytical skills",
+            "Windows Xp",
+            "Project management",
+            "Supply Chain Management",
+            "Organization Skills",
+            "Teamleading",
+            "Start-up  project",
+            "Управление проектами",
+            "Ведение переговоров",
+            "Деловая переписка",
+            "MS Outlook",
+            "Письменный перевод",
+            "Windows 7",
+            "Управление персоналом",
+            "Работа в команде",
+            "Деловое общение"
+        ],
+        "additional_education": [
+            "Oracle training",
+            "OFS-2 Basic management",
+            "Advanced Log Interpretation",
+            "Schlumberger Engineering course 1",
+            "North Sea survival course",
+            "OFS-1 .Paris.orientation course",
+            "Drvining licence",
+            "Middle east Technical University",
+            "Middle east Technical University",
+            "Middle east Technical University"
+        ],
+        "additional_education_organization": [
+            "NOV, Oracle",
+            "Schlumberger, passed",
+            "Schlumberger D&M Sugar Land.Texas, 90%",
+            "Schlumberger, average 92.5 out of 100 %",
+            "Falcon Nutek, passed",
+            "Schlumberger, passed",
+            "Internal Affairs(MVD), Category B",
+            "Economics for Chemical Engineers, Can be seen in transcript",
+            "Total Quality Management, Can be seen in transcript",
+            "Industrial Organization and Management, Can be seen in transcript"
+        ],
+        "additional_education_year": [
+            "2016",
+            "2008",
+            "2007",
+            "2006",
+            "2006",
+            "2006",
+            "2005",
+            "2005",
+            "2005",
+            "2004"
+        ]
+    },
+    {
+        "name": "Financial analyst",
+        "salary": "",
+        "tags": [
+            "IFRS",
+            "Финансовая отчетность",
+            "Консолидация финансовой отчетности",
+            "1C: Бухгалтерия",
+            "MS Outlook",
+            "MS PowerPoint",
+            "Data Analysis",
+            "Driving Licence B",
+            "Анализ текущих финансовых показателей",
+            "Сравнение внутригрупповых расчетов",
+            "Финансовый анализ",
+            "Контроль и анализ ценообразования",
+            "Кредиторская задолженность",
+            "Дебиторская задолженность",
+            "Внешний финансовый аудит",
+            "Внутренний финансовый аудит",
+            "Budgeting",
+            "Управленческая отчетность",
+            "Финансовый контроль",
+            "Бюджетирование",
+            "Управление проектами",
+            "Ведение переговоров",
+            "Управление персоналом",
+            "Финансовое планирование",
+            "Финансовый менеджмент",
+            "Бухгалтерская отчетность",
+            "Холодные продажи",
+            "Работа в команде",
+            "Английский язык",
+            "Обучение персонала"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Экономист-аналитик",
+        "salary": "",
+        "tags": [
+            "MS PowerPoint",
+            "Работа с данными – аналитика, обработка, расчет, управление базой данных",
+            "Визуализация данных",
+            "Уверенная работа с нормативной документацией (СНиП, ГОСТ, РД)",
+            "Подготовка презентаций",
+            "Аналитическое мышление",
+            "Работа с большим объемом информации",
+            "Владение компьютером – прикладные программы MS Office",
+            "Подготовка отчетов",
+            "Анализ данных",
+            "Google Sheets",
+            "Создание визуализаций в формате дашборда",
+            "Google Data Studio",
+            "SQL",
+            "PostgreSQL",
+            "Работа с реляционными базами данных",
+            "Сводные таблицы",
+            "Анализ финансовых показателей",
+            "Анализ бизнес показателей",
+            "ВПР",
+            "Статистический анализ",
+            "Экономический анализ",
+            "Анализ текущих финансовых показателей"
+        ],
+        "additional_education": [
+            "Аналитик BI: с нуля до middle"
+        ],
+        "additional_education_organization": [
+            "Нетология"
+        ],
+        "additional_education_year": [
+            "2024"
+        ]
+    },
+    {
+        "name": "Продуктовый аналитик",
+        "salary": "",
+        "tags": [
+            "Обучаемость",
+            "Анализ данных",
+            "Аналитическое мышление",
+            "Работа в команде",
+            "Пользователь ПК",
+            "MS PowerPoint",
+            "Работа с большим объемом информации",
+            "Деловая переписка",
+            "Английский язык",
+            "Работа с базами данных",
+            "Статистический анализ",
+            "Аналитические исследования",
+            "SQL",
+            "Грамотная речь",
+            "Подготовка презентаций",
+            "Деловое общение",
+            "Деловая коммуникация",
+            "Ориентация на результат",
+            "Умение работать в команде",
+            "Поиск информации в интернет",
+            "Python",
+            "Математическая статистика",
+            "MS Excel",
+            "Data Analysis",
+            "Data Mining",
+            "Анализ временных рядов"
+        ],
+        "additional_education": [
+            "VK Education",
+            "AIESEC",
+            "Анализ данных в бизнесе"
+        ],
+        "additional_education_organization": [
+            "VK, Управление продуктом в IT",
+            "AIESEC, Business Outliers",
+            "НИУ ВШЭ (ГУ-ВШЭ)"
+        ],
+        "additional_education_year": [
+            "2022",
+            "2022",
+            "2022"
+        ]
+    },
+    {
+        "name": "Аналитик",
+        "salary": "",
+        "tags": [
+            "Python",
+            "PHP",
+            "HTML5",
+            "CSS3",
+            "Ajax",
+            "jQuery",
+            "SQL",
+            "appsflyer",
+            "MS Excel",
+            "AppMetrica",
+            "Atlassian Jira",
+            "Atlassian Confluence",
+            "phpMyAdmin",
+            "Google Data Studio",
+            "Asana",
+            "Google Script",
+            "Google Sheets",
+            "PostgreSQL",
+            "Разработка технических заданий",
+            "Adjust"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "IT engineer",
+        "salary": "",
+        "tags": [
+            "Java",
+            "Driving Licence B",
+            "Java Database",
+            "MS SQL",
+            "Oracle Pl/SQL",
+            "MS SQL Server",
+            "Business English",
+            "Agile Project Management",
+            "Communication skills",
+            "Operations Planning",
+            "PostgreSQL",
+            "Cisco",
+            "Windows Server 2008",
+            "Windows Server 2012",
+            "Unix",
+            "MS Windows",
+            "CentOS",
+            "MS Excel",
+            "MS PowerPoint",
+            "Logging",
+            "Storage",
+            "Bug Tracking Systems"
+        ],
+        "additional_education": [
+            "Data Analyst"
+        ],
+        "additional_education_organization": [
+            "Aktobe IT Structure, Data Analytics "
+        ],
+        "additional_education_year": [
+            "2019"
+        ]
+    },
+    {
+        "name": " Treasury Middle -Office Senior Officer",
+        "salary": "",
+        "tags": [
+            "Russian — Native",
+            "English — C1 — Advanced"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": "",
+        "tags": [
+            "Python",
+            "SQL",
+            "Data Analysis",
+            "Data Visualization",
+            "Statistical Analysis System",
+            "Data Modeling",
+            "Data Cleaning and Transformation",
+            "Machine Learning",
+            "Collaboration and Communication",
+            "Database Management",
+            "Testing and Debugging",
+            "Version Control System",
+            "Data Science Libraries",
+            "DevOps Tools",
+            "Soft Skills",
+            "Анализ данных",
+            "Статистический анализ",
+            "Визуализация",
+            "Моделирование данных",
+            "Машинное обучение",
+            "Английский язык",
+            "Git",
+            "PostgreSQL",
+            "NumPy",
+            "Pandas",
+            "Tableau",
+            "PyTorch",
+            "Нейронные сети",
+            "Matplotlib",
+            "Amplitude"
+        ],
+        "additional_education": [
+            "Продуктовый аналитик с нуля до middle",
+            "Complete Python Developer in 2023: Zero To Mastery"
+        ],
+        "additional_education_organization": [
+            "Нетология, Продуктовый аналитик",
+            "ZTM, Python Developer"
+        ],
+        "additional_education_year": [
+            "2024",
+            "2023"
+        ]
+    },
+    {
+        "name": "Database administrator / Data Engineer",
+        "salary": "",
+        "tags": [
+            "Python",
+            "JSON API",
+            "Pandas",
+            " ООП",
+            "KNIME",
+            "Tableau",
+            "Sklearn",
+            "Hyper-V",
+            "Oracle VM",
+            "Linux",
+            "Django Framework",
+            "Анализ данных",
+            "PySpark",
+            "Hadoop",
+            "Git",
+            "PostgreSQL",
+            "MongoDB",
+            "Airflow",
+            "Arenadata DB",
+            "Docker",
+            "GreenPlum",
+            "Ruby",
+            "Vagrant",
+            "Облачные решения",
+            "ClickHouse",
+            "Atlassian Jira",
+            "Подключение сервисов к мониторингу",
+            "Оптимизация конфигурационных параметров СУБД",
+            "Bash",
+            " SQL"
+        ],
+        "additional_education": [
+            "Нетология",
+            "SkillBox"
+        ],
+        "additional_education_organization": [
+            "Нетология, Data Scientist: с нуля до middle",
+            "SkillBox, Профессия Python-разработчик"
+        ],
+        "additional_education_year": [
+            "2023",
+            "2022"
+        ]
+    },
+    {
+        "name": "Quant, Analyst, Algo Trader",
+        "salary": "",
+        "tags": [
+            "Python",
+            "MATLAB",
+            "Bloomberg"
+        ],
+        "additional_education": [
+            "Instituto de Empresa"
+        ],
+        "additional_education_organization": [
+            "MBA, MBA"
+        ],
+        "additional_education_year": [
+            "2011"
+        ]
+    },
+    {
+        "name": "IT and/or automation engineer",
+        "salary": "",
+        "tags": [
+            "SAP R/3",
+            "XML",
+            "Software Development",
+            "VBA",
+            "Data Analysis",
+            "Java",
+            "MS SQL",
+            "SQL",
+            "Leadership Skills",
+            "Delphi",
+            "JavaScript",
+            "Team management",
+            "Ajax",
+            "HTML",
+            "MATLAB",
+            "MySQL",
+            "Adobe Photoshop",
+            "Web Application Development",
+            "MS PowerPoint",
+            "PHP",
+            "PHP5",
+            "Windows Xp",
+            "Teamleading",
+            "Linux",
+            "Adobe Flash",
+            "Project management",
+            "Управление проектами",
+            "MS Outlook",
+            "Ведение переговоров",
+            "Английский язык"
+        ],
+        "additional_education": [
+            "Simatic S7 PLC, Step7, Wincc"
+        ],
+        "additional_education_organization": [
+            "ТОО \"Siemens\", simatic s7 specialist"
+        ],
+        "additional_education_year": [
+            "2003"
+        ]
+    },
+    {
+        "name": "Financial Analyst",
+        "salary": "",
+        "tags": [
+            "Перевод",
+            "Работа в команде",
+            "Английский язык",
+            "Организаторские навыки",
+            "Организация мероприятий",
+            "MS Outlook",
+            "Письменный перевод",
+            "Устный перевод",
+            "MS PowerPoint",
+            "Пользователь ПК",
+            "Проведение презентаций",
+            "Internet",
+            "MS Movie Maker",
+            "Работа с людьми",
+            "Управление проектами",
+            "Работа с большим объемом информации",
+            "Подготовка презентаций",
+            "Навыки презентации",
+            "Поиск и привлечение клиентов",
+            "Грамотная речь",
+            "Деловая переписка",
+            "Консультант плюс"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Senior IT Business Analyst",
+        "salary": "",
+        "tags": [
+            "Oracle Pl/SQL",
+            "Project management",
+            "Visual Studio C#",
+            "UML",
+            "MS SQL",
+            "Software Development",
+            "XML",
+            "Analytical skills",
+            "MS SQL Server",
+            "Business Analysis",
+            "PHP",
+            "Data Analysis",
+            "Business English",
+            "Teamleading",
+            "SOX",
+            ".NET Framework",
+            "ITIL",
+            "BABOK",
+            "People Management",
+            "Business Process Management",
+            "Web Application Development",
+            "Big Data",
+            "Data Warehousing"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Business/System Analyst",
+        "salary": "",
+        "tags": [
+            "Ответственность"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Middle Android Developer",
+        "salary": "",
+        "tags": [
+            "Clean Architecture",
+            "Android",
+            "Git",
+            "Java",
+            "Kotlin",
+            "ООП",
+            "MVVM",
+            "MVP",
+            "MVI",
+            "SOLID",
+            "RxJava",
+            "Dagger",
+            "Coroutines",
+            "Apollo",
+            "Koin"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Golang Developer",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Teamplayer",
+            "SQL Lite",
+            "HTML5",
+            "CSS",
+            "GO",
+            "Google API",
+            "JSON",
+            "Docker",
+            "HTTP",
+            "Bash",
+            "Linux",
+            "Git",
+            "English C1",
+            "Консультирование клиентов"
+        ],
+        "additional_education": [
+            "Narxoz University",
+            "ISM University of Management and Economics (Lithuania, Vilnuis)"
+        ],
+        "additional_education_organization": [
+            "ТОО «КаР-Тел» Beeline Telecommunication , Internet of Things (IoT) and Data Science",
+            "Narxoz University, Financial Accounting"
+        ],
+        "additional_education_year": [
+            "2019",
+            "2017"
+        ]
+    },
+    {
+        "name": "Data Scientist",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Математическое моделирование",
+            "Математическая статистика",
+            "Анализ данных",
+            "Машинное обучение",
+            "Аналитические исследования",
+            "Статистический анализ",
+            "Прогнозирование",
+            "ML",
+            "DL",
+            "SQL",
+            "ORACLE",
+            "PyCharm",
+            "Pandas",
+            "numpy",
+            "sciki",
+            "Scikit-learn",
+            "tensorflow",
+            "scipy",
+            "Mathematical Modeling",
+            "Mathematical Statistics",
+            "Data Analysis",
+            "Статистика",
+            "MATLAB",
+            "Регрессионный анализ",
+            "Docker",
+            "Regression Analysis",
+            "Latex"
+        ],
+        "additional_education": [
+            "Фронтиры прикладного искусственного интеллекта",
+            "ArcGIS: Инструменты, функциональность и выполнение анализа",
+            "Использование современных информационных технологий в преподавательской деятельности на базе данных MatLab",
+            "Создание доступной среды в университете для инвалидов и лиц с ограниченными возможностями",
+            "Использование электронной информационно-образовательной среды СПбГЭТУ \"ЛЭТИ\" при реализации образовательных программ ФГОС ВО"
+        ],
+        "additional_education_organization": [
+            "ИТМО, Машинное обучение и анализ данных",
+            "ЛЭТИ, Аналитика в геоинформационных системах",
+            "ЛЭТИ, MatLab для математического моделирования",
+            "ЛЭТИ, Образование",
+            "ЛЭТИ, Образование"
+        ],
+        "additional_education_year": [
+            "2021",
+            "2020",
+            "2019",
+            "2017",
+            "2017"
+        ]
+    },
+    {
+        "name": "Web Developer (PHP), Systems Analyst, IT Business Analyst",
+        "salary": "",
+        "tags": [
+            "PHP",
+            "Data Analysis",
+            "MySQL",
+            "HTML5",
+            "Business Analysis",
+            "CSS",
+            "jQuery",
+            "SQL",
+            "Ajax",
+            "REST",
+            "JavaScript"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Finance Analyst",
+        "salary": "",
+        "tags": [
+            "Английский — B2 — Средне-продвинутый",
+            "Русский — B2 — Средне-продвинутый",
+            "Французский — A1 — Начальный"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Инженер ГТИ",
+        "salary": "",
+        "tags": [
+            "Internet",
+            "MS Office",
+            "AutoCAD",
+            "DTCIS",
+            "Быстрое обучение"
+        ],
+        "additional_education": [
+            "Acquisition course",
+            "Well Control course",
+            "Mudlogging course"
+        ],
+        "additional_education_organization": [
+            "Schlumberger Europe learnig Center, Mudlogging Analyst",
+            "Schlumberger Middle East learnig Center",
+            "Schlumberger Europe learnig Center , Mudlogging Analyst"
+        ],
+        "additional_education_year": [
+            "2019",
+            "2019",
+            "2018"
+        ]
+    },
+    {
+        "name": "Junior financial analyst",
+        "salary": "",
+        "tags": [
+            "Пользователь ПК",
+            "Ведение переговоров",
+            "Английский язык",
+            "Организаторские навыки",
+            "Работа в команде",
+            "Поиск информации в интернет",
+            "MS PowerPoint",
+            "MS Outlook",
+            "Водительское удостоверение категории B",
+            "Data Analysis",
+            "Business Planning",
+            "MS Excel",
+            "турецкий язык",
+            "Driving Licence B",
+            "R studio programming",
+            "развитие бизнеса",
+            "Business Development",
+            "Marketing Analysis"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Lead Business Analyst | Product Manager | Product Owner",
+        "salary": "",
+        "tags": [
+            "Управление проектами",
+            "Ведение переговоров",
+            "E-Commerce",
+            "Управление интернет-проектами",
+            "Project management",
+            "Agile Project Management",
+            "Scrum",
+            "Управление продуктом",
+            "руководство командой разработчиков",
+            "Запуск новых продуктов",
+            "Product Management",
+            "Руководство коллективом",
+            "Наполнение контентом",
+            "Разработка продукта",
+            "Английский язык",
+            "Проектный менеджмент"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data processing specialist",
+        "salary": "",
+        "tags": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "MS SQL",
+            "C++",
+            "Linux",
+            "Natural Language Processing",
+            "Computer Vision",
+            "English Language",
+            "Probability and Statistics"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Data Scientist",
+        "salary": "",
+        "tags": [
+            "TensorFlow",
+            "Keras",
+            "Python",
+            "Numpy",
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "CSS3",
+            "HTML5",
+            "Atlassian Jira",
+            "C++",
+            "Git",
+            "Bash",
+            "React",
+            "Vue",
+            "Sass",
+            "Mobx"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Policy Analyst/ Public Relations / Sustainable Development",
+        "salary": "",
+        "tags": [
+            "Strategic And Efficient Planning",
+            "Teamplayer",
+            "Time management",
+            "Analytical skills"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Analyst, Architect",
+        "salary": "",
+        "tags": [
+            "Russian — Native",
+            "English — C2 — Proficiency",
+            "French — A1 — Basic",
+            "Italian — A1 — Basic"
+        ],
+        "additional_education": [
+            "Introduction into the Stocks market (1 month)",
+            "Basics of Risk Management (2 weeks)",
+            "Rational Unified Process – RUP  (2 months)",
+            ".NET Technologies (2 weeks)"
+        ],
+        "additional_education_organization": [
+            "UniCredit Bank",
+            "Luxoft, Moscow",
+            "Luxoft, Moscow",
+            "Luxoft, Moscow"
+        ],
+        "additional_education_year": [
+            "2009",
+            "2007",
+            "2007",
+            "2005"
+        ]
+    },
+    {
+        "name": "MLOps / ML Engineer (EN)",
+        "salary": "",
+        "tags": [
+            "Python",
+            "SQL",
+            "Data Analysis",
+            "Data Science",
+            "Deep Learning",
+            "Neural Networks",
+            "TensorFlow",
+            "Machine Learning",
+            "Data Mining"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "middle python backend developer",
+        "salary": "",
+        "tags": [
+            "Python",
+            "FastAPI",
+            "SQLalchemy",
+            "Asyncio",
+            "pytest",
+            "Django",
+            "DRF",
+            "PostgreSQL",
+            "Clickhouse",
+            "Kafka",
+            "Redis",
+            "Celery",
+            "Kubernetes",
+            "Docker",
+            "ci/cd",
+            "Unix",
+            "microservices",
+            "modern code writing/review practices",
+            "algorithms/data-stuctures",
+            "OOP/Design Patterns"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Project Manager. Analyst.",
+        "salary": "",
+        "tags": [
+            "Russian — Native",
+            "English — C1 — Advanced"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": "",
+        "tags": [
+            "Работоспособность",
+            "Работа с SQL запросами",
+            "Работа с датасетами в Pyton",
+            "Работа с инструментами BI",
+            "Проведение A/B-тестов"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Software Engineer",
+        "salary": "",
+        "tags": [
+            "C#",
+            " Python",
+            "scikit-learn",
+            "tensorflow",
+            "Docker",
+            "Kubernetes",
+            "MS SQL Server",
+            "VueJS",
+            ".NET",
+            " SQL",
+            "RabbitMQ",
+            " Git",
+            "Web Application Development",
+            "Distributed systems",
+            "Redis",
+            "REST API",
+            "Microservices",
+            "ClickHouse",
+            "ASP.NET Core"
+        ],
+        "additional_education": [
+            "IsSoft"
+        ],
+        "additional_education_organization": [
+            "IsSoft, .NET"
+        ],
+        "additional_education_year": [
+            "2020"
+        ]
+    },
+    {
+        "name": "Senior Business Analyst. Banking operations.",
+        "salary": "",
+        "tags": [
+            "Responsibility",
+            "Creativity",
+            "Analytical skills",
+            "Bloomberg",
+            "Английский язык",
+            "Business Analysis",
+            "Teambuilding",
+            "Presentation skills",
+            "MS Office",
+            "Испанский язык",
+            "MS Excel",
+            "wealth management",
+            "Asset Management",
+            "Investment Banking",
+            "Financial Markets",
+            "Project management",
+            "Investment Operations",
+            "Corporate Actions",
+            "Information Technology",
+            "Reporting",
+            "Visual Basic",
+            "backoffice",
+            "dividends",
+            "Atlassian Jira",
+            "Agile Project Management",
+            "Reference Data",
+            "Data Governance",
+            "Data Analysis",
+            "Google Docs"
+        ],
+        "additional_education": [
+            "Saint Petersburg State University",
+            "National Autonomous University of Mexico U.N.A.M.",
+            "National Autonomous University of Mexico U.N.A.M."
+        ],
+        "additional_education_organization": [
+            "Language Testing Centre, Russian as a foreign language. ТРКИ-I",
+            "School of Economics, UNAM, Diploma in Business Administration 276 Hours.",
+            "School of Economics, UNAM, Finance and Financial Markets. Diploma 240 hours."
+        ],
+        "additional_education_year": [
+            "2020",
+            "2019",
+            "2014"
+        ]
+    },
+    {
+        "name": "Financial analyst",
+        "salary": "",
+        "tags": [
+            "Leadership Skills",
+            "Creativity",
+            "Teamplayer",
+            "Fast Learning Skills",
+            "Data Analysis",
+            "Stress Management",
+            "Sales Skills",
+            "Project management"
+        ],
+        "additional_education": [
+            "Course of \"Mergers and Aquisitions\""
+        ],
+        "additional_education_organization": [
+            "RANEPA, Mergers and Aquisitions"
+        ],
+        "additional_education_year": [
+            "2016"
+        ]
+    },
+    {
+        "name": "Менеджер проектов, Аналитик",
+        "salary": "",
+        "tags": [
+            "Анализ временных рядов",
+            "Статистический анализ",
+            "Python",
+            "Data Mining",
+            "MATLAB",
+            "Математическая статистика",
+            "SQL",
+            "Математическое моделирование",
+            "Управление проектами",
+            "Data Analysis",
+            "Регрессионный анализ",
+            "Финансовое моделирование",
+            "Управление рисками",
+            "Анализ данных",
+            "Прогнозирование",
+            "Проведение тендеров",
+            "Проектный менеджмент",
+            "Управление командой",
+            "Анализ рисков",
+            "Стратегическое планирование",
+            "Ведение переговоров",
+            "Международные контакты",
+            "Оптимизация бизнес-процессов",
+            "Agile Project Management",
+            "Scrum",
+            "Деловая переписка",
+            "Ведение переписки на иностранном языке",
+            "Английский язык",
+            "Организаторские навыки",
+            "Анализ финансовых показателей"
+        ],
+        "additional_education": [
+            "Universität Koblenz-Landau",
+            "Universität Koblenz-Landau",
+            "Universität Koblenz-Landau",
+            "Днепропетровский университет экономики и права",
+            "Universität Koblenz-Landau",
+            "Universität Koblenz-Landau",
+            "Universität Koblenz-Landau"
+        ],
+        "additional_education_organization": [
+            "Universität Koblenz-Landau, International Economics; e-Participation; Integrated Business Design; Modelling and Computer Simulation",
+            "Universität Koblenz-Landau, Enterprise Architecture; International Economics; Research Methods in Information Systems; Agent Based Simulation",
+            "Universität Koblenz-Landau, E-government; Strategic Network Management; Research methods in information systems; Digital Rights Management",
+            "Microsoft, Microsoft Solutions Frameworks Essentials",
+            "Universität Koblenz-Landau, Public Management / E-government; Data Mining; Marketing; E-business Ventures",
+            "Universität Koblenz-Landau, Methods of empirical social research; Introduction to statistical methods; Modeling and simulation in the social sciences",
+            "Universität Koblenz-Landau, Methods of empirical social research; Introduction to statistical methods; Questionnaires"
+        ],
+        "additional_education_year": [
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2005",
+            "2002",
+            "2000"
+        ]
+    },
+    {
+        "name": "Analyst/marketing specialist",
+        "salary": "",
+        "tags": [
+            "Market Research",
+            "Marketing Analysis",
+            "Product Marketing",
+            "Project management",
+            "Analytical skills",
+            "Data Analysis",
+            "Business English",
+            "Time management",
+            "Social Media Marketing",
+            "Data Mining",
+            "CMS Wordpress",
+            "Presentation skills",
+            "Driving Licence B",
+            "Team management",
+            "French",
+            "Writing Advertising Articles",
+            "Writing Articles",
+            "SEO",
+            "Copyrighting",
+            "Adobe Photoshop",
+            "Photography",
+            "Photojournalism"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    },
+    {
+        "name": "Geologist",
+        "salary": "",
+        "tags": [
+            "MS PowerPoint",
+            "MS Outlook",
+            "MS Access",
+            "AutoCAD",
+            "CorelDRAW",
+            "PC user",
+            "English",
+            "Reporting",
+            "Literacy",
+            "Teamplayer",
+            "Working with databases",
+            "Field work",
+            "Reporting of reserves and resources by international standards (PERC)"
+        ],
+        "additional_education": [
+            "GN5, Acquisition system course",
+            "Mud logging course, ML1",
+            "Geological support of mining operations",
+            "\"Training of line managers to effective methods for managing labor safety.\" Principles of Leadership in the field of occupational safety and health \"",
+            "Reporting of the PERC (Pan European Reporting Committee of Reserves and Resources)",
+            "AutoCAD 3D"
+        ],
+        "additional_education_organization": [
+            "Schlumberger: Middle East learning center(MLC) - Abu Dhabi, Geology and drilling. Data delivery(well monitoring), Acquisition system, sensors.",
+            "Schlumberger: European learning center(ELC) - France, Melun, Geology and drilling wells (well monitoring tasks)",
+            "NURICON Management Consulting, Geology",
+            "HeidelbergCement in Kazakhstan, H&S",
+            "HeidelbergCement in Germany, Leimen, Geology",
+            "Macintosh Aktau Course, Programm"
+        ],
+        "additional_education_year": [
+            "2020",
+            "2019",
+            "2018",
+            "2018",
+            "2017",
+            "2017"
+        ]
+    },
+    {
+        "name": "Middle Office Senior Specialist/Product controller",
+        "salary": "",
+        "tags": [
+            "Русский — Родной",
+            "Английский — C2 — В совершенстве"
+        ],
+        "additional_education": [
+            "Russia License 1.0 (Broker, dealer and securities management license)"
+        ],
+        "additional_education_organization": [
+            "Federal Service for Financial Markets"
+        ],
+        "additional_education_year": [
+            "2007"
+        ]
+    },
+    {
+        "name": "Консультант SAP BI/BW",
+        "salary": "",
+        "tags": [
+            "SAP BI",
+            "SAP BPC",
+            "SAP BW",
+            "Microsoft Office",
+            "VBA Excel",
+            "Python",
+            " SQL",
+            "Visual Studio C#",
+            "MS Visual C++"
+        ],
+        "additional_education": [
+            "Бухгалтерский учёт 2020. Теория и практика."
+        ],
+        "additional_education_organization": [
+            "Центр компьютерного обучения «Специалист» при МГТУ им.Н.Э.Баумана"
+        ],
+        "additional_education_year": [
+            "2020"
+        ]
+    },
+    {
+        "name": "Marketing specialist/analyst",
+        "salary": "",
+        "tags": [
+            "Google AdWords",
+            "Google Analytics",
+            "Marketing Strategy Development",
+            "Business Strategy",
+            "Market Research",
+            "SPSS",
+            "Планирование маркетинговых кампаний",
+            "SMM"
+        ],
+        "additional_education": [],
+        "additional_education_organization": [],
+        "additional_education_year": []
+    }
+]
